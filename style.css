@@ -1,0 +1,25 @@
+h4 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: 100px auto;
+    max-width: 1024px;
+    background-color: rgb(7, 30, 122);
+}
+
+.text-box-closed {
+    padding: 10px 10px 5px 10px ;
+
+}
+
+.text-box-opened {
+    padding: 5px 10px 10px 10px;
+    display: none;
+
+}
